@@ -1,6 +1,6 @@
 # OSS final project.
-# Online parking space reservation website.
-## 21600150 Kim Juntae
+# Online parking space reservation project.
+## 21600150 Kim Juntae.
 * What does this project do?
   * This project reserve parking spaces online.
 * Why is this project useful?
