@@ -1,5 +1,4 @@
-# OSS final project.
-# Online parking space reservation project.
+# OSS final project_Online parking space reservation project.
 
 # What does this project do?
 This project reserve parking spaces online.
